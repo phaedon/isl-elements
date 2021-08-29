@@ -85,3 +85,6 @@ dæmi: það hvarflaði ekki að okkur að gefast upp
 dæmi: það hvarflar að Hildi að spyrja móður Hlyns hvernig...
 tm:20210829
 src:dulnefnin.180
+
+# Keep this as a marker for the end-of-file:
+EOF
