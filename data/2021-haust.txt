@@ -1,0 +1,87 @@
+# Key:
+# defn:definition, likely in English
+# tm: timestamp (tímamerki)
+# src: source, short form from heimildir.txt. Optionally followed
+#      by a page number separated by '.'
+# note: additional explanations, not core definition
+# fallst: which case does it steer (often with verbs)
+# dæmi: examples from source text or from dictionary
+
+orð:
+slétt tala
+no kvk
+defn:even number
+tm:20210829
+src:dulnefnin.179
+
+orð:
+oddatala
+no kvk
+defn:odd number
+tm:20210829
+src:dulnefnin.179
+
+orð:
+augnsvipur
+no kk
+defn:expression of the eyes
+tm:20210829
+src:dulnefnin.179
+
+orð:
+ef til vill
+ao
+defn:possibly, perhaps
+tm:20210829
+src:dulnefnin.179
+
+orð:
+minnast á e-ð
+so
+defn:to mention something
+tm:20210829
+src:dulnefnin.179
+
+orð:
+eflaust
+ao
+defn:without a doubt, almost certainly
+tm:20210829
+src:dulnefnin.179
+
+orð:
+skamma
+so
+fallst:þf
+defn:to scold, reprimand
+tm:20210829
+src:dulnefnin.180
+
+orð:
+hljóta
+so
+defn:indicates certainty, i.e. "must have run", "must have opened", etc.
+note:always followed by the infinitive
+dæmi:hún hlýtur að vera búin hjá tannlækninum
+dæmi:þeir hljóta að geta útskýrt þetta
+dæmi:það hlýtur að vera opið á laugardögum
+tm:20210829
+src:dulnefnin.180
+
+orð:
+varla
+ao
+defn:barely, hardly
+dæmi:varla eru fleiri sem heita sama nafni
+tm:20210829
+src:dulnefnin.180
+
+orð:
+hvarfla
+so
+defn: to occur to s.o. (þgf) to do sth. (infinitive)
+note: það hvarflar að <mér> að <fara>
+dæmi: það hvarflaði ekki að okkur að gefast upp
+dæmi: það hvarflar að Hildi að spyrja móður Hlyns hvernig...
+tm:20210829
+src:dulnefnin.180
