@@ -180,5 +180,93 @@ defn:bird nest
 tm:20210831
 src:rle.51
 
+orð:
+skyndilega
+ao
+defn:suddenly
+tm:20210831
+src:rle.50
+
+orð:
+hörfa
+so
+defn:to fall back, retreat
+tm:20210831
+src:rle.50
+
+orð:
+fát
+no hk
+defn:agitated hurry
+note:singular only
+tm:20210831
+src:rle.50
+
+orð:
+andköf
+no hk
+defn:gasp of breath
+note:plural only
+tm:20210831
+src:rle.50
+
+orð:
+órór
+lo
+defn:troubled, uneasy
+tm:20210831
+src:rle.50
+
+orð:
+hranalegur
+lo
+defn:rude, brusque, gruff
+dæmi:bankastjórinn er alltaf svo hranalegur við gjaldkerana
+tm:20210831
+src:rle.50
+
+orð:
+hikandi
+lo
+defn:hesitantly
+dæmi:hikandi lyfti hún lokinu upp
+tm:20210831
+src:rle.50
+
+orð:
+spaugsamur
+lo
+defn:jocular, humorous
+dæmi:hún er spaugsöm og segir oft skemmtilegar sögur
+tm:20210831
+src:rle.49
+
+orð:
+hvellur
+no kk
+defn:loud popping sound
+dæmi:það heyrðist hár hvellur við sprenginguna
+tm:20210831
+src:rle.48
+
+orð:
+innihald
+no hk
+defn:content
+note:singular only
+dæmi:lögreglan rannsakaði innihald skjalatöskunnar
+tm:20210831
+src:rle.47
+
+orð:
+geyma
+so
+defn:to store, to preserve
+fallst:þf
+dæmi:við geymum sultuna í ísskápnum
+dæmi:hann geymir tímarit í kjallaranum
+tm:20210831
+src:rle.47
+
 # Keep this as a marker for the end-of-file:
 EOF
