@@ -1,4 +1,6 @@
-import collections
+"""
+Small library for loading data files containing vocabulary.
+"""
 
 
 class WordEntry:
@@ -61,3 +63,5 @@ print("now printing the final...")
 for entry in entries:
     print(entry.word, entry.grammarcat, entry.timestamp, entry.source, entry.definition)
     print(entry.examples)
+
+print("successfully loaded:", len(entries))
