@@ -6,6 +6,7 @@
 # note: additional explanations, not core definition
 # fallst: which case does it steer (often with verbs)
 # dæmi: examples from source text or from dictionary
+# os: orðasamband (non-standard, but stands in for part of speech)
 
 orð:
 slétt tala
@@ -85,6 +86,99 @@ dæmi: það hvarflaði ekki að okkur að gefast upp
 dæmi: það hvarflar að Hildi að spyrja móður Hlyns hvernig...
 tm:20210829
 src:dulnefnin.180
+
+orð:
+glæra
+no kvk
+defn:a slide from a presentation;cornea of the eye
+tm:20210831
+src:hi-mf1
+
+orð:
+verkefni
+no hk
+defn:assignment, task, project
+dæmi:mörg erfið verkefni bíða nýju ríkisstjórnarinnar
+dæmi:kennarinn dreifði verkefnum til nemendanna
+tm:20210831
+src:hi-mf1
+
+orð:
+tágakarfa
+no kvk
+defn:wicker basket
+tm:20210831
+src:rle.51
+
+orð:
+skærblár
+lo
+defn:very bright blue
+tm:20210831
+src:rle.51
+
+orð:
+slíkur
+lo
+defn:such, like this
+dæmi:ég get ekki treyst slíkum manni
+tm:20210831
+src:rle.51
+
+orð:
+litadýrð
+no kvk
+defn:varied, decorative colors
+note:only in the singular
+dæmi:litadýrð fjallanna er einstök
+tm:20210831
+src:rle.51
+
+orð:
+fyrirlitlegur
+lo
+defn:contemptuous
+tm:20210831
+src:rle.51
+
+orð:
+taka á sig rögg
+os
+defn:to take the plunge, to show initiative
+tm:20210831
+src:rle.51
+
+orð:
+hrifsa
+so
+defn:to snatch
+dæmi:þjófarnir hrifsuðu peningana af manninum
+tm:20210831
+src:rle.51
+
+orð:
+valdsmannslegur
+lo
+defn:authoritative
+dæmi:hann reyndi að tala í valdsmannslegum tón
+tm:20210831
+src:rle.51
+
+orð:
+smokra
+so
+defn:to slip, sneak
+fallst:þgf
+dæmi:hann smokraði pappírnum undan egginu
+tm:20210831
+src:rle.51
+
+orð:
+hreiður
+no hk
+defn:bird nest
+tm:20210831
+src:rle.51
 
 # Keep this as a marker for the end-of-file:
 EOF

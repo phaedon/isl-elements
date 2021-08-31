@@ -2,3 +2,6 @@
 
 dulnefnin:
 Dulnefnin, Bragi Ólafsson
+
+rle:
+Rannsóknin á leyndardómum Eyðihússins, Snæbjörn Arngrímsson
