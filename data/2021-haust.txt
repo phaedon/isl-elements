@@ -398,5 +398,35 @@ defn:of flesh and blood
 tm:20210901
 src:hi-islmal1
 
+orð:
+eyða
+no kvk
+defn:gap, that which is missing in a text
+dæmi:hún sagði mér ekki alla söguna svo að ég varð að geta í eyðurnar
+tm:20210901
+src:hi-islmal1
+
+orð:
+lýsa
+so
+defn:to describe, illuminate
+tm:20210901
+src:hi-islmal1
+
+orð:
+einkenni
+no hk
+defn:characteristics
+dæmi:hver þjóð hefur sín sérstöku einkenni
+tm:20210901
+src:hi-islmal1
+
+orð:
+tónskáld
+no hk
+defn:composer (music)
+tm:20210901
+src:hi-islmal1
+
 # Keep this as a marker for the end-of-file:
 EOF
