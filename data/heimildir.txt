@@ -5,3 +5,9 @@ Dulnefnin, Bragi Ólafsson
 
 rle:
 Rannsóknin á leyndardómum Eyðihússins, Snæbjörn Arngrímsson
+
+hi-mf1:
+Málfræði 1 (lecture)
+
+hi-islmal1:
+Íslenskt Mál 1 (lecture)

@@ -268,5 +268,135 @@ dæmi:hann geymir tímarit í kjallaranum
 tm:20210831
 src:rle.47
 
+orð:
+hvass
+lo
+defn:strong wind; sharp knife or tip; sharp, critical look or voice
+dæmi:hún horfði á mig hvössum augum
+dæmi:hún var hvöss í máli þegar hún skammaði barnið
+tm:20210901
+src:rle.46
+
+orð:
+ábúðarfullur
+lo
+defn:with gravity, importance, seriousness
+dæmi:fréttamaðurinn greindi ábúðarfullur frá eldgosinu
+tm:20210901
+src:rle.45
+
+orð:
+púlt
+no hk
+defn:lectern
+tm:20210901
+src:rle.45
+
+orð:
+aðalatriði
+no hk
+defn:the main point, main idea
+tm:20210901
+src:hi-islmal1
+
+orð:
+giska
+so
+defn:to guess (something)
+tm:20210901
+src:hi-islmal1
+
+orð:
+á að giska
+ao
+defn:um það bil
+dæmi:drengurinn er á að giska tíu ára
+dæmi:það voru á að giska 50 manns í salnum
+tm:20210901
+src:hi-islmal1
+
+orð:
+efnisgrein
+no kvk
+defn:
+tm:20210901
+src:hi-islmal1
+
+orð:
+útdráttur
+no kk
+defn:abstract, summary
+tm:20210901
+src:hi-islmal1
+
+orð:
+súmmera
+so
+fallst:þf
+defn:to summarize
+note:informal (óformlegt)
+dæmi:hann reyndi að súmmera upp niðurstöður fundarins
+tm:20210901
+src:hi-islmal1
+
+orð:
+samhengi
+no hk
+defn:context
+tm:20210901
+src:hi-islmal1
+
+orð:
+læstur
+lo
+defn:lokaður með lás
+dæmi:bréfin eru í læstri skúffu
+tm:20210901
+src:hi-islmal1
+
+orð:
+hressing
+no kvk
+defn:matur eða drykkur sem hressir mann
+dæmi:þeir fengu sér hressingu eftir gönguferðina
+tm:20210901
+src:hi-islmal1
+
+orð:
+andheiti
+no hk
+defn:antonym
+tm:20210901
+src:hi-islmal1
+
+orð:
+ekki á morgun heldur hinn
+os
+defn:the day after tomorrow
+tm:20210901
+src:hi-islmal1
+
+orð:
+skúffa
+no kvk
+defn:drawer
+tm:20210901
+src:hi-islmal1
+
+orð:
+vera til
+os
+defn:to exist
+dæmi:er jólasveinninn kannski ekki til?
+tm:20210901
+src:hi-islmal1
+
+orð:
+af holdi og blóði
+os
+defn:of flesh and blood
+tm:20210901
+src:hi-islmal1
+
 # Keep this as a marker for the end-of-file:
 EOF
