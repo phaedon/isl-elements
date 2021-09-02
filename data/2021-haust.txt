@@ -428,5 +428,58 @@ defn:composer (music)
 tm:20210901
 src:hi-islmal1
 
+orð:
+samræmi
+no hk
+defn:accordance, agreement
+note:bara eintala
+tm:20210902
+src:hi-mf1
+
+orð:
+sérhljóð
+no hk
+defn:vowel
+tm:20210902
+src:hi-mf1
+
+orð:
+stofnsérhljóð
+no hk
+defn:stem vowel
+tm:20210902
+src:hi-mf1
+
+orð:
+tvíhljóð
+no hk
+defn:diphthong
+tm:20210902
+src:hi-mf1
+
+orð:
+áherslulaus
+lo
+defn:unstressed
+tm:20210902
+src:hi-mf1
+
+orð:
+atkvæði
+no hk
+defn:syllable
+tm:20210902
+src:hi-mf1
+
+orð:
+brottfall
+no hk
+defn:elision
+dæmi:vond-ur verður von-t á hvorugkyn (brottfall d)
+dæmi:svart-ur verður svart á hvorugkyn (brottfall t)
+dæmi:harð-ur verður har-t á hvorugkyn (brottfall ð)
+tm:20210902
+src:hi-mf1
+
 # Keep this as a marker for the end-of-file:
 EOF
