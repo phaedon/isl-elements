@@ -11,3 +11,6 @@ Málfræði 1 (lecture)
 
 hi-islmal1:
 Íslenskt Mál 1 (lecture)
+
+hi-tal1:
+Talþjálfun 1 (lecture)

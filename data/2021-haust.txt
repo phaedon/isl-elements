@@ -481,5 +481,12 @@ dæmi:harð-ur verður har-t á hvorugkyn (brottfall ð)
 tm:20210902
 src:hi-mf1
 
+orð:
+ótvíræður
+lo
+defn:unambiguous
+tm:20210902
+src:hi-tal1
+
 # Keep this as a marker for the end-of-file:
 EOF
