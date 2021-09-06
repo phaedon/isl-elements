@@ -488,5 +488,106 @@ defn:unambiguous
 tm:20210902
 src:hi-tal1
 
+orð:
+vapp
+no hk
+defn:relaxed stroll
+dæmi:ég sá hana á vappi á göngunum
+tm:20210903
+src:rle.64
+
+orð:
+staldra
+so
+defn:to take a pause and stay for a while
+note:followed by við
+dæmi:ertu að flýta þér eða ætlarðu að staldra eitthvað við?
+tm:20210903
+src:rle.64
+
+orð:
+dirfast
+so
+defn:to dare
+dæmi:dirfist þú að hlæja að mér!
+tm:20210903
+src:rle.64
+
+orð:
+að velta vöngum yfir e-u
+os
+defn:to speculate about sth, to mull sth over
+tm:20210903
+src:rle.64
+
+orð:
+hafa <hana> að fífli
+os
+defn:to make someone into a fool
+dæmi:sem hafði alla bæjarbúa nú að fífli
+tm:20210903
+src:rle.65
+
+orð:
+gera grín að <honum>
+os
+defn:to make fun of someone
+dæmi:Var bróðir Hrólfs að gera grín að þorpsbúum?
+tm:20210903
+src:rle.65
+
+orð:
+skyldur
+lo
+defn:closely related
+tm:20210906
+src:hi-islmal1
+
+orð:
+mállýska
+no kvk
+defn:dialect
+tm:20210906
+src:hi-islmal1
+
+orð:
+frumlag
+no hk
+defn:grammatical subject
+tm:20210906
+src:hi-islmal1
+
+orð:
+andlag
+no hk
+defn:grammatical object
+tm:20210906
+src:hi-islmal1
+
+orð:
+viðurnefni
+no hk
+defn:nickname which is appended to one's name
+tm:20210906
+src:hi-islmal1
+
+orð:
+ofnæmi
+no hk
+defn:allergy
+note:followed by "fyrir"
+dæmi:hafa ofnæmi fyrir köttum
+tm:20210906
+src:hi-islmal1
+
+orð:
+snöggur
+lo
+defn:very quick to react
+dæmi:Það er í rauninni bara að ná henni og koma henni út fyrir en stundum er hún sneggri en við.
+note:sneggri is the comparative form
+tm:20210906
+src:hi-islmal1
+
 # Keep this as a marker for the end-of-file:
 EOF
