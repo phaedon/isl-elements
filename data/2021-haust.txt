@@ -316,13 +316,6 @@ tm:20210901
 src:hi-islmal1
 
 orð:
-efnisgrein
-no kvk
-defn:
-tm:20210901
-src:hi-islmal1
-
-orð:
 útdráttur
 no kk
 defn:abstract, summary
@@ -588,6 +581,187 @@ dæmi:Það er í rauninni bara að ná henni og koma henni út fyrir en stundum
 note:sneggri is the comparative form
 tm:20210906
 src:hi-islmal1
+
+orð:
+mubla
+no kvk
+defn:húsgagn
+note:mobilya
+tm:20210908
+src:hi-islmal1
+
+orð:
+loðber
+no hk
+defn:kiwifruit, loðinn ávöxtur
+note:might not be in arnastofnun dictionary
+tm:20210908
+src:hi-islmal1
+
+orð:
+loðinn
+lo
+defn:hirsute
+note:see loðber, kíví
+tm:20210908
+src:hi-islmal1
+
+orð:
+sinna
+so
+defn:to take care of something, to attend to something
+fallst:þgf
+dæmi:hún vinnur ekki úti heldur sinnir heimilinu
+dæmi:farðu og sinntu starfi þínu
+tm:20210908
+src:hi-islmal1
+
+orð:
+valda
+so
+defn:to cause something
+fallst:þgf
+dæmi:jarðskjálftinn olli mikilli eyðileggingu
+dæmi:ógætilegur akstur getur valdið slysum
+tm:20210908
+src:hi-islmal1
+
+orð:
+rifja upp
+so
+defn:to review, recount, refresh one's memory
+fallst:þf
+dæmi:við rifjuðum upp ferð okkar til Kína
+dæmi:hann rifjaði upp fyrir sér ævintýri næturinnar
+tm:20210909
+src:hi-mf1
+
+orð:
+rogast
+so
+defn:to carry something with difficulty
+note:miðmynd, rogast með þf
+dæmi:þeir roguðust með kassana upp stigann
+tm:20210928
+src:rle.20
+
+orð:
+hlað
+no hk
+defn:farmyard, courtyard
+tm:20210928
+src:rle.20
+
+orð:
+tröppur
+no kvk
+defn:stone steps outdoors leading up to a front door
+note:í fleirtölu
+tm:20210928
+src:rle.19
+
+orð:
+varlega
+ao
+defn:carefully, with caution
+dæmi:farðu varlega í umferðinni
+dæmi:hann lokaði dyrunum varlega á eftir sér
+tm:20210928
+src:rle.19
+
+orð:
+karmur
+no kk
+defn:a wooden doorframe or windowframe
+tm:20210928
+src:rle.19
+
+orð:
+skima
+so
+defn:to scan, to look around
+dæmi:hún skimaði í kringum sig eftir verkfæri
+tm:20210928
+src:rle.19
+
+orð:
+vélarhlíf
+no kvk
+defn:the hood of a car
+tm:20210928
+src:rle.18
+
+orð:
+dágóður
+lo
+defn:(time) quite long; (quantity) quite a lot
+dæmi:dágóður tími fer í að lesa blöðin á morgnana
+dæmi:hann beið dágóða stund í bankanum
+dæmi:hún á dágott safn af listaverkum
+tm:20210928
+src:rle.18
+
+orð:
+undrandi
+lo
+defn:full of wonder, amazement, surprise
+dæmi:hann varð undrandi þegar hann las bréfið
+tm:20210928
+src:rle.17
+
+orð:
+sveifla
+so
+defn:to swing back and forth or over
+dæmi:hún sveiflaði sér á bak hestinum
+dæmi:hún sat á veggnum og sveiflaði fótunum
+tm:20210928
+src:rle.17
+
+orð:
+fimlega
+ao
+defn:deftly
+dæmi:kötturinn stökk fimlega upp í tréð
+tm:20210928
+src:rle.17
+
+orð:
+rýr
+lo
+defn:slender, thin, meager
+dæmi:kartöfluuppskeran var fremur rýr í haust
+tm:20210928
+src:rle.17
+
+orð:
+sjaldséður
+lo
+defn:rarely seen
+tm:20210928
+src:rle.17
+
+orð:
+einblína
+so
+defn:to focus on something, stare closely
+dæmi:hann einblíndi á blómin á sófaborðinu
+tm:20210928
+src:rle.16
+
+orð:
+malarvegur
+no kk
+defn:gravel road
+tm:20210928
+src:rle.16
+
+orð:
+varfærnislega
+ao
+defn:carefully, with caution
+tm:20210928
+src:rle.16
 
 # Keep this as a marker for the end-of-file:
 EOF
