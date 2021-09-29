@@ -763,5 +763,84 @@ defn:carefully, with caution
 tm:20210928
 src:rle.16
 
+orð:
+að fara suður
+os
+defn:að fara til Reykjavíkur
+dæmi:Aldrei fór ég suður.
+tm:20210929
+src:hi-islmal1
+
+orð:
+ýmist - eða
+st
+defn:conjunction where sometimes one applies, sometimes another
+dæmi:hún býr ýmist í Evrópu eða Ameríku
+dæmi:fiskurinn er ýmist soðinn eða steiktur
+tm:20210929
+src:hi-islmal1
+
+orð:
+er sama sem
+os
+defn:equals (i.e. in arithmetic)
+tm:20210929
+src:hi-islmal1
+
+orð:
+sveigur
+no kk
+defn:curve, turn
+tm:20210929
+src:rle.21
+
+orð:
+lalla
+so
+defn:to walk slowly and lazily
+dæmi:ég ákvað að lalla niður á torgið
+tm:20210929
+src:rle.21
+
+orð:
+skurður
+no kk
+defn:channel dug into the ground
+tm:20210929
+src:rle.21
+
+orð:
+laumast
+so
+defn:to sneak secretly
+dæmi:ég laumaðist til að lesa bréfið
+tm:20210929
+src:rle.21
+
+orð:
+kæra sig ekki um <þetta>
+os
+defn:to not care about something
+dæmi:hann kærir sig ekki lengur um hana
+dæmi:ég kæri mig ekki lengur um gamla tekkskrifborðið
+tm:20210929
+src:rle.21
+
+orð:
+í námunda við e-ð
+os
+defn:close to something, in the vicinity of
+tm:20210929
+src:rle.21
+
+orð:
+híma
+so
+defn:to wait somewhere with discomfort
+dæmi:það var kalt að híma á biðstöðinni í norðanvindinum
+dæmi:hesturinn hímdi undir húsvegg
+tm:20210929
+src:rle.21
+
 # Keep this as a marker for the end-of-file:
 EOF
