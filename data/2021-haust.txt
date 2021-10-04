@@ -842,5 +842,126 @@ dæmi:hesturinn hímdi undir húsvegg
 tm:20210929
 src:rle.21
 
+orð:
+útjaðar
+no kk
+defn:the outskirts
+dæmi:þau búa í útjaðri bæjarins
+tm:20211003
+src:rle.22
+
+orð:
+frægur
+lo
+defn:famous
+dæmi:hann er frægur fyrir að hafa fundið upp þessa vél
+tm:20211003
+src:rle.25
+
+orð:
+sporbaugur
+no kk
+defn:ellipse
+tm:20211004
+src:rle.78
+
+orð:
+hnöttur
+no kk
+defn:a spherical celestial body; or, planet Earth
+dæmi:Ástralía er hinum megin á hnettinum
+tm:20211004
+src:rle.78
+
+orð:
+vísindamaður
+no kk
+defn:scientist
+tm:20211004
+src:rle.78
+
+orð:
+skegg
+no hk
+defn:facial hair, beard
+tm:20211004
+src:rle.78
+
+orð:
+tilraunaglas
+no hk
+defn:test tube
+tm:20211004
+src:rle.78
+
+orð:
+braut
+no kvk
+defn:path, course (of a moving object)
+tm:20211004
+src:rle.79
+
+orð:
+skerast
+so
+defn:to intersect
+tm:20211004
+src:rle.79
+
+orð:
+fjölga
+so
+defn:to increase, multiply
+dæmi:fyrirtækið ætlar að fjölga starfsmönnum
+dæmi:kanínur fjölga sér hratt
+fallst:þgf
+tm:20211004
+src:rle.80
+
+orð:
+bæra
+so
+defn:to stir, move (a bit)
+dæmi:gardínur bærðust ekki
+tm:20211004
+src:rle.80
+
+orð:
+strokufangi
+no kk
+defn:sá eða sú sem hefur strokið úr fangelsi
+tm:20211004
+src:rle.81
+
+orð:
+vera í þungum þönkum
+os
+defn:vera upptekinn við hugsanir sínar
+tm:20211004
+src:rle.81
+
+orð:
+vagga
+so
+defn:to sway, rock back and forth
+dæmi:hún söng og vaggaði barninu
+dæmi:öldurnar vögguðu bátnum
+tm:20211004
+src:rle.81
+
+orð:
+sigla/stefna hraðbyri
+os
+defn:to sail fast into something
+tm:20211004
+src:rle.81
+
+orð:
+ógn
+no kvk
+defn:fear, terror
+tm:20211004
+src:rle.82
+
 # Keep this as a marker for the end-of-file:
 EOF
