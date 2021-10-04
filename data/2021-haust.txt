@@ -963,5 +963,93 @@ defn:fear, terror
 tm:20211004
 src:rle.82
 
+orð:
+evra
+no kvk
+defn:Euro (currency)
+tm:20211004
+src:hi-islmal1
+
+orð:
+dollari
+no kk
+defn:US dollar
+tm:20211004
+src:hi-islmal1
+
+orð:
+pund
+no hk
+defn:British pound (currency)
+tm:20211004
+src:hi-islmal1
+
+orð:
+metri
+no kk
+defn:mælieining fyrir lengd, 100 sentimetrar
+tm:20211004
+src:hi-islmal1
+
+orð:
+skeið
+no kvk
+defn:spoon
+tm:20211004
+src:hi-islmal1
+
+orð:
+skeið
+no hk
+defn:time period (tímabil)
+dæmi:hún dvaldi erlendis um nokkurt skeið
+tm:20211004
+src:hi-islmal1
+
+orð:
+eftir þörfum
+os
+defn:as needed
+tm:20211004
+src:hi-islmal1
+
+orð:
+hæfilega
+ao
+defn:suitably, properly, appropriately
+tm:20211004
+src:hi-islmal1
+
+orð:
+gataspaði
+no kk
+defn:slotted kitchen spoon
+tm:20211004
+src:hi-islmal1
+
+orð:
+hver þeirra
+os
+defn:each of them; which one? (as a question)
+tm:20211004
+src:hi-islmal1
+
+orð:
+færa
+so
+defn:to move st. a short distance; to transfer st.
+dæmi:hann ætlar að færa rósarunnann nær húsinu
+dæmi:ég færði borðið út að glugganum
+dæmi:getur þú fært bílinn þinn?
+tm:20211004
+src:hi-islmal1
+
+orð:
+Það skiptir ekki máli.
+os
+defn:It doesn't matter.
+tm:20211004
+src:hi-islmal1
+
 # Keep this as a marker for the end-of-file:
 EOF
