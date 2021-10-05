@@ -1,0 +1,142 @@
+# These are beygingardæmi, so they do not necessarily contain difficult or
+# unfamiliar words. However, they do represent important inflectional paradigms.
+# Key source: https://www.forlagid.is/vara/islensk-tunga-ord/
+# Íslensk tunga: Orð – II. bindi (Guðrún Kvaran)
+# uf: undirflokkur
+# tag:bd when a word is "the" beyginardæmið for its undirflokkur. The others
+# without the tag are simply common examples within the cluster, but we try to
+# annotate the canonical example so as to facilitate more focused retrieval and
+# presentation of exercises.
+
+hestur
+no kk
+flokk:1
+uf:a
+tag:bd
+
+armur
+no kk
+flokk:1
+uf:b
+tag:bd
+
+mór
+no kk
+flokk:1
+uf:c
+tag:bd
+
+bjór
+no kk
+flokk:1
+uf:d
+tag:bd
+
+stóll
+no kk
+flokk:1
+uf:e
+tag:bd
+
+himinn
+no kk
+flokk:1
+uf:f
+tag:bd
+
+akur
+no kk
+flokk:1
+uf:g
+tag:bd
+
+læknir
+no kk
+flokk:1
+uf:h
+tag:bd
+
+hamar
+no kk
+flokk:1
+uf:g
+
+humar
+no kk
+flokk:1
+uf:g
+
+jaðar
+no kk
+flokk:1
+uf:g
+
+aldur
+no kk
+flokk:1
+uf:g
+
+bakstur
+no kk
+flokk:1
+uf:g
+
+fjötur
+no kk
+flokk:1
+uf:g
+
+galdur
+no kk
+flokk:1
+uf:g
+
+hlátur
+no kk
+flokk:1
+uf:g
+
+mokstur
+no kk
+flokk:1
+uf:g
+
+plástur
+no kk
+flokk:1
+uf:g
+
+sigur
+no kk
+flokk:1
+uf:g
+
+sykur
+no kk
+flokk:1
+uf:g
+
+vikur
+no kk
+flokk:1
+uf:g
+
+faraldur
+no kk
+flokk:1
+uf:g
+
+árangur
+no kk
+flokk:1
+uf:g
+
+farangur
+no kk
+flokk:1
+uf:g
+
+leiðangur
+no kk
+flokk:1
+uf:g
