@@ -1051,5 +1051,44 @@ defn:It doesn't matter.
 tm:20211004
 src:hi-islmal1
 
+orð:
+stálpaður
+lo
+defn:hálfvaxinn, slightly older child (maybe 9-12?)
+tm:20211006
+src:hi-islmal1
+
+orð:
+fálátur
+lo
+defn:sem segir lítið, reserved
+tm:20211006
+src:hi-islmal1
+
+orð:
+foringi
+no kk
+defn:a leader
+tm:20211006
+src:hi-islmal1
+
+orð:
+ólíkur
+lo
+defn:different from, dissimilar
+note:takes þgf (though it is an adjective)
+dæmi:systurnar eru ólíkar í útliti og innræti
+dæmi:hundar og kettir eru ólík heimilisdýr
+tm:20211006
+src:hi-islmal1
+
+orð:
+hagsýnn
+lo
+defn:frugal
+dæmi:hún er hagsýn húsmóðir
+tm:20211006
+src:hi-islmal1
+
 # Keep this as a marker for the end-of-file:
 EOF
