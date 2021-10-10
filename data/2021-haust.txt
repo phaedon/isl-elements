@@ -1090,5 +1090,94 @@ dæmi:hún er hagsýn húsmóðir
 tm:20211006
 src:hi-islmal1
 
+orð:
+skáletur
+no hk
+defn:italics (slanted font)
+tm:20211007
+src:hi-mf1
+
+orð:
+á ská
+ao
+defn:diagonally, obliquely, at an angle (skewed)
+dæmi:bandið er á ská yfir öxlina
+dæmi:ég bý á ská á móti kaffihúsinu
+dæmi:sólin skín á ská inn um gluggann síðdegis
+tm:20211007
+src:hi-mf1
+
+orð:
+við hliðina á
+os
+defn:beside, next to
+note:takes þgf
+dæmi:Settu hnífana við hliðina á göfflunum!
+tm:20211007
+src:hi-mf1
+
+orð:
+áskorun
+no kvk
+defn:challenge
+tm:20211007
+src:hi-mf1
+
+orð:
+drasl
+no hk
+defn:insignificant stuff, rubbish
+dæmi:það var mikið drasl á skrifborðinu
+tm:20211010
+src:rle.120
+
+orð:
+rómur
+no kk
+defn:voice
+tm:20211010
+src:rle.121
+
+orð:
+greinilegur
+lo
+defn:evident, obvious, clearly visible
+tm:20211010
+src:rle.121
+
+orð:
+stolt
+no hk
+defn:pride
+note:only singular
+tm:20211010
+src:rle.121
+
+orð:
+neyðast
+so
+defn:to be forced to do something
+tm:20211010
+src:rle.121
+
+orð:
+ilma
+so
+defn:gefa frá sér góða lykt
+dæmi:blómin ilma vel
+dæmi:húsið ilmaði af nýbökuðu brauði
+tm:20211010
+src:rle.121
+
+orð:
+ylja
+so
+fallst:þgf
+defn:to warm something or someone
+dæmi:hann kom inn og yljaði sér við ofninn
+dæmi:komdu hingað, ég skal ylja þér
+tm:20211010
+src:rle.122
+
 # Keep this as a marker for the end-of-file:
 EOF
