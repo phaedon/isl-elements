@@ -1179,5 +1179,141 @@ dæmi:komdu hingað, ég skal ylja þér
 tm:20211010
 src:rle.122
 
+orð:
+dotta
+so
+defn:nod, doze off
+dæmi:hún sat og dottaði fyrir framan sjónvarpið
+tm:20211013
+src:rle.206
+
+orð:
+ranka við sér
+os
+defn:to regain consciousness, to recover one's senses
+tm:20211013
+src:rle.206
+
+orð:
+máttur
+no kk
+defn:power, strength
+dæmi:máttur listarinnar er mikill
+dæmi:trúa á mátt sinn og megin
+tm:20211013
+src:rle.206
+
+orð:
+trekkur
+no kk
+defn:draft (through a door or window)
+tm:20211013
+src:rle.206
+
+orð:
+húka
+so
+defn:to sit crouched and uncomfortably
+dæmi:hann húkti á bekk í rigningunni
+dæmi:aumingja fuglinn húkir í búrinu sínu
+tm:20211013
+src:rle.206
+
+orð:
+skipandi
+lo
+defn:with a commanding tone
+tm:20211013
+src:rle.206
+
+orð:
+fjarrænn
+lo
+defn:distant (likely expression or character)
+dæmi:hann horfði upp í loftið með fjarrænum svip
+dæmi:hún var köld og fjarræn og yrti ekki á neinn
+tm:20211013
+src:rle.206
+
+orð:
+sljór
+lo
+defn:dull, sluggish
+dæmi:Augun í honum voru fjarræn og svipurinn sljór.
+tm:20211013
+src:rle.206
+
+orð:
+tillaga
+no kvk
+defn:proposal, proposition
+tm:20211013
+src:rle.206
+
+orð:
+blossa
+so
+defn:to flare up
+dæmi:mikil reiði blossaði upp í henni
+dæmi:eldur blossaði upp í bílnum við áreksturinn
+tm:20211013
+src:rle.206
+
+orð:
+jaxl
+no kk
+defn:molar
+tm:20211013
+src:rle.207
+
+orð:
+miðað við
+os
+defn:compared to...
+tm:20211013
+src:rle.207
+
+orð:
+þéttriðinn
+lo
+defn:dense, tight-meshed
+tm:20211013
+src:rle.208
+
+orð:
+vírnet
+no hk
+defn:wire mesh
+tm:20211013
+src:rle.208
+
+orð:
+þunglamalegur
+lo
+defn:lumbering, clumsy; heavy
+dæmi:göngulag hans var þunglamalegt
+tm:20211013
+src:rle.209
+
+orð:
+knýja
+so
+defn:to drive, to be an energy source for
+fallst:þf
+dæmi:skipið er knúið olíu
+dæmi:rafmagn er notað til að knýja bíla
+dæmi:löngun í peninga knýr hana áfram
+tm:20211013
+src:rle.212
+
+orð:
+hvumsa
+lo
+defn:orðlaus af undrun
+note:aðeins ein orðmynd
+dæmi:Hann var jafn hvumsa og ég.
+tm:20211013
+src:rle.213
+
 # Keep this as a marker for the end-of-file:
 EOF
