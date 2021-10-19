@@ -56,6 +56,116 @@ flokk:1
 uf:h
 tag:bd
 
+botn
+no kk
+flokk:1
+uf:d
+
+dans
+no kk
+flokk:1
+uf:d
+
+eir
+no kk
+flokk:1
+uf:d
+
+foss
+no kk
+flokk:1
+uf:d
+
+fugl
+no kk
+flokk:1
+uf:d
+
+gaur
+no kk
+flokk:1
+uf:d
+
+háls
+no kk
+flokk:1
+uf:d
+
+hrafn
+no kk
+flokk:1
+uf:d
+
+karl
+no kk
+flokk:1
+uf:d
+
+koss
+no kk
+flokk:1
+uf:d
+
+lax
+no kk
+flokk:1
+uf:d
+
+maur
+no kk
+flokk:1
+uf:d
+
+ofn
+no kk
+flokk:1
+uf:d
+
+rass
+no kk
+flokk:1
+uf:d
+
+skafl
+no kk
+flokk:1
+uf:d
+
+svefn
+no kk
+flokk:1
+uf:d
+
+turn
+no kk
+flokk:1
+uf:d
+
+vagn
+no kk
+flokk:1
+uf:d
+
+þegn
+no kk
+flokk:1
+uf:d
+
+bikar
+no kk
+flokk:1
+uf:d
+
+biskup
+no kk
+flokk:1
+uf:d
+
+hákarl
+no kk
+flokk:1
+uf:d
+
 hamar
 no kk
 flokk:1

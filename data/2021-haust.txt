@@ -1315,5 +1315,52 @@ dæmi:Hann var jafn hvumsa og ég.
 tm:20211013
 src:rle.213
 
+orð:
+fullyrðing
+no kvk
+defn:assertion
+tm:20211018
+src:hi-islmal1
+
+orð:
+ýmislegur
+lo
+defn:different, various
+dæmi:við lentum í ýmislegum ævintýrum á ferðalaginu
+dæmi:hús geta verið með ýmislegu móti
+tm:20211018
+src:hi-islmal1
+
+orð:
+lækka
+so
+defn:to lower s.t, to decrease
+dæmi:flugstjórinn lækkaði flugið
+dæmi:verðið hefur lækkað um þriðjung
+dæmi:ráðherra lofaði að lækka skattana
+tm:20211018
+src:hi-islmal1
+
+orð:
+Það fer eftir ýmsu!
+os
+defn:It depends!
+tm:20211018
+src:hi-islmal1
+
+orð:
+viðskeyti
+no hk
+defn:suffix
+tm:20211019
+src:hi-mf1
+
+orð:
+tilbrigði
+no hk
+defn:variant, variation
+tm:20211019
+src:hi-mf1
+
 # Keep this as a marker for the end-of-file:
 EOF
