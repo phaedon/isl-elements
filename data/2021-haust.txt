@@ -1362,5 +1362,46 @@ defn:variant, variation
 tm:20211019
 src:hi-mf1
 
+orð:
+meðvitaður
+lo
+defn:conscious (of something)
+dæmi:hann tók meðvitaða ákvörðun um að breyta um lífsstíl
+dæmi:vera meðvitaður um eldhættuna
+tm:20211020
+src:hi-islmal1
+
+orð:
+ferli
+no hk
+defn:process
+dæmi:allar umsóknir fara í gegnum ákveðið ferli
+tm:20211020
+src:hi-islmal1
+
+orð:
+hafna
+so
+defn:refuse, reject
+fallst:þgf
+dæmi:hún er búin að hafna honum þrisvar
+tm:20211020
+src:hi-islmal1
+
+orð:
+innskot
+no hk
+defn:insertion (in language or text)
+tm:20211020
+src:hi-islmal1
+
+orð:
+skapandi
+lo
+defn:creative
+dæmi:námskeið í skapandi hugsun
+tm:20211020
+src:hi-islmal1
+
 # Keep this as a marker for the end-of-file:
 EOF
