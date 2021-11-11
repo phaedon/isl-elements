@@ -1403,5 +1403,28 @@ dæmi:námskeið í skapandi hugsun
 tm:20211020
 src:hi-islmal1
 
+orð:
+kunna að meta
+os
+defn:to appreciate something
+tm:20211101
+src:hi-islmal1
+
+orð:
+meta
+so
+defn:to evaluate, appraise; to appreciate
+dæmi:hann mat vatnslitamyndina á tíu þúsund krónur
+dæmi:ég met það við hana hvað hún er stundvís
+tm:20211101
+src:hi-islmal1
+
+orð:
+svipað og
+os
+defn:similar to
+tm:20211111
+src:hi-mf1
+
 # Keep this as a marker for the end-of-file:
 EOF
