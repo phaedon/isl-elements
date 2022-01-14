@@ -1,0 +1,563 @@
+orð:
+bær
+no kk
+defn:municipality, town, city
+tm:20220113
+src:bn
+
+orð:
+bekkur
+no kk
+defn:bench; hópur nemenda í skóla
+tm:20220113
+src:bn
+
+orð:
+björn
+no kk
+defn:bear
+tm:20220113
+src:bn
+
+orð:
+dalur
+no kk
+defn:nokkuð djúp og aflöng lægð í fjalllendi
+tm:20220113
+src:bn
+
+orð:
+drengur
+no kk
+defn:ungur karlmaður, strákur
+tm:20220113
+src:bn
+
+orð:
+fjörður
+no kk
+defn:sjór sem skerst (langt) inn í land, venjulega meiri á lengd en breidd
+tm:20220113
+src:bn
+
+orð:
+flötur
+no kk
+defn:smooth, flat area; physical background
+tm:20220113
+src:bn
+
+orð:
+fundur
+no kk
+defn:meeting
+tm:20220113
+src:bn
+
+orð:
+gestur
+no kk
+defn:sá eða sú sem kemur í heimsókn
+tm:20220113
+src:bn
+
+orð:
+glæpur
+no kk
+defn:major criminal offense
+dæmi:glæpur gegn mannkyninu
+tm:20220113
+src:bn
+
+orð:
+grís
+no kk
+defn:ungt svín
+tm:20220113
+src:bn
+
+orð:
+háttur
+no kk
+defn:habit, custom
+tm:20220113
+src:bn
+
+orð:
+hvalur
+no kk
+defn:stórt spendýr (af ýmsum tegundum) sem lifir í sjó
+tm:20220113
+src:bn
+
+orð:
+hver
+no kk
+defn:a source where hot water or steam flows up
+tm:20220113
+src:bn
+
+orð:
+köttur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+lækur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+leikur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+skjár
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+sláttur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+smellur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+sonur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+staður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+veggur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+vinur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+völlur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+vörður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+þáttur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+þráður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+þröstur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+bóndi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+frændi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+nemandi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+bróðir
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+faðir
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+fingur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+fótur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+vetur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+mánuður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+hönnuður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+klæðnaður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+söfnuður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+könnuður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+fatnaður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+Dani
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+Ítali
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+Grikki
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+Tyrki
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+áhorfandi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+áskrifandi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+byrjandi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+eigandi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+hlustandi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+hlutur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+hringur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+lesandi
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+litur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+örn
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+smiður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+vængur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+vegur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+þulur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+ávöxtur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+bar
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+bolur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+dráttur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+drykkur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+guð
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+her
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+hnöttur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+knöttur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+liður
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+lögur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+máttur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+refur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+salur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+selur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+stafur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+sveppur
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+blær
+no kk
+defn:
+tm:20220113
+src:bn
+
+orð:
+ás
+no kk
+defn:
+tm:20220113
+src:bn
+
+# Keep this as a marker for the end-of-file:
+EOF

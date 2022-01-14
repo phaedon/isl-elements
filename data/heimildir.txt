@@ -14,3 +14,6 @@ hi-islmal1:
 
 hi-tal1:
 Talþjálfun 1 (lecture)
+
+bn:
+Beyging nafnorða (canonical declensions)
