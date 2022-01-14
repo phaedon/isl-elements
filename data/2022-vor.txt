@@ -422,140 +422,140 @@ src:bn
 orð:
 þulur
 no kk
-defn:
+defn:sá eða sú sem kynnir dagskrá og les fréttir í útvarpi og sjónvarpi
 tm:20220113
 src:bn
 
 orð:
 ávöxtur
 no kk
-defn:
+defn:safaríkur vöxtur á plöntu eða tré, oft sætur á bragðið, t.d. epli og appelsína
 tm:20220113
 src:bn
 
 orð:
 bar
 no kk
-defn:
+defn:afgreiðsluborð þar sem seldir eru drykkir, t.d. á veitingastað
 tm:20220113
 src:bn
 
 orð:
 bolur
 no kk
-defn:
+defn:torso
 tm:20220113
 src:bn
 
 orð:
 dráttur
 no kk
-defn:
+defn:dragging, towing
 tm:20220113
 src:bn
 
 orð:
 drykkur
 no kk
-defn:
+defn:drink, beverage
 tm:20220113
 src:bn
 
 orð:
 guð
 no kk
-defn:
+defn:yfirnáttúrulegur máttur sem menn trúa á
 tm:20220113
 src:bn
 
 orð:
 her
 no kk
-defn:
+defn:army
 tm:20220113
 src:bn
 
 orð:
 hnöttur
 no kk
-defn:
+defn:spherical star, planet, moon; planet Earth
 tm:20220113
 src:bn
 
 orð:
 knöttur
 no kk
-defn:
+defn:ball
 tm:20220113
 src:bn
 
 orð:
 liður
 no kk
-defn:
+defn:joint in the body
 tm:20220113
 src:bn
 
 orð:
 lögur
 no kk
-defn:
+defn:liquid, fluid
 tm:20220113
 src:bn
 
 orð:
 máttur
 no kk
-defn:
+defn:power, strength
 tm:20220113
 src:bn
 
 orð:
 refur
 no kk
-defn:
+defn:fox
 tm:20220113
 src:bn
 
 orð:
 salur
 no kk
-defn:
+defn:large hall for gathering
 tm:20220113
 src:bn
 
 orð:
 selur
 no kk
-defn:
+defn:seal
 tm:20220113
 src:bn
 
 orð:
 stafur
 no kk
-defn:
+defn:wooden staff; letter; rod (retina)
 tm:20220113
 src:bn
 
 orð:
 sveppur
 no kk
-defn:
+defn:mushroom
 tm:20220113
 src:bn
 
 orð:
 blær
 no kk
-defn:
+defn:hægur vindur, andvari
 tm:20220113
 src:bn
 
 orð:
 ás
 no kk
-defn:
+defn:goð í heiðinni trú norrænna manna
 tm:20220113
 src:bn
 
