@@ -100,322 +100,323 @@ src:bn
 orð:
 köttur
 no kk
-defn:
+defn:cat
 tm:20220113
 src:bn
 
 orð:
 lækur
 no kk
-defn:
+defn:stream, brook; lítið vatnsfall
 tm:20220113
 src:bn
 
 orð:
 leikur
 no kk
-defn:
+defn:game, match
 tm:20220113
 src:bn
 
 orð:
 skjár
 no kk
-defn:
+defn:screen
 tm:20220113
 src:bn
 
 orð:
 sláttur
 no kk
-defn:
+defn:beat; grass mowing
 tm:20220113
 src:bn
 
 orð:
 smellur
 no kk
-defn:
+defn:clap, crack (sound)
 tm:20220113
 src:bn
 
 orð:
 sonur
 no kk
-defn:
+defn:son
 tm:20220113
 src:bn
 
 orð:
 staður
 no kk
-defn:
+defn:place, spot, location
 tm:20220113
 src:bn
 
 orð:
 veggur
 no kk
-defn:
+defn:wall
 tm:20220113
 src:bn
 
 orð:
 vinur
 no kk
-defn:
+defn:friend
 tm:20220113
 src:bn
 
 orð:
 völlur
 no kk
-defn:
+defn:field, grounds
 tm:20220113
 src:bn
 
 orð:
 vörður
 no kk
-defn:
+defn:watchman, guard
 tm:20220113
 src:bn
 
 orð:
 þáttur
 no kk
-defn:
+defn:part of a whole; episode
 tm:20220113
 src:bn
 
 orð:
 þráður
 no kk
-defn:
+defn:thread
 tm:20220113
 src:bn
 
 orð:
 þröstur
 no kk
-defn:
+defn:thrush (bird)
 tm:20220113
 src:bn
 
 orð:
 bóndi
 no kk
-defn:
+defn:farmer
 tm:20220113
 src:bn
 
 orð:
 frændi
 no kk
-defn:
+defn:karlkyns skyldmenni af ýmsum ættliðum, t.d. móðurbróðir eða systursonur
 tm:20220113
 src:bn
 
 orð:
 nemandi
 no kk
-defn:
+defn:sá eða sú sem stundar nám í skóla eða á námskeiði
 tm:20220113
 src:bn
 
 orð:
 bróðir
 no kk
-defn:
+defn:brother
 tm:20220113
 src:bn
 
 orð:
 faðir
 no kk
-defn:
+defn:father
 tm:20220113
 src:bn
 
 orð:
 fingur
 no kk
-defn:
+defn:finger
 tm:20220113
 src:bn
 
 orð:
 fótur
 no kk
-defn:
+defn:foot, leg
 tm:20220113
 src:bn
 
 orð:
 vetur
 no kk
-defn:
+defn:árstíð þegar kalt er og dimmt, í nokkra mánuði eða vikur samfleytt
 tm:20220113
 src:bn
 
 orð:
 mánuður
 no kk
-defn:
+defn:samfellt tímabil sem nær yfir 28-31 dag
 tm:20220113
 src:bn
 
 orð:
 hönnuður
 no kk
-defn:
+defn:designer
 tm:20220113
 src:bn
 
 orð:
 klæðnaður
 no kk
-defn:
+defn:fatnaður, föt
+dæmi:klæðnaður fólks er mismunandi eftir heimshlutum
 tm:20220113
 src:bn
 
 orð:
 söfnuður
 no kk
-defn:
+defn:crowd, congregation
 tm:20220113
 src:bn
 
 orð:
 könnuður
 no kk
-defn:
+defn:explorer
 tm:20220113
 src:bn
 
 orð:
 fatnaður
 no kk
-defn:
+defn:föt sem menn klæðast
 tm:20220113
 src:bn
 
 orð:
 Dani
 no kk
-defn:
+defn:maður frá Danmörku
 tm:20220113
 src:bn
 
 orð:
 Ítali
 no kk
-defn:
+defn:maður frá Ítalíu
 tm:20220113
 src:bn
 
 orð:
 Grikki
 no kk
-defn:
+defn:maður frá Grikklandi
 tm:20220113
 src:bn
 
 orð:
 Tyrki
 no kk
-defn:
+defn:maður frá Tyrklandi
 tm:20220113
 src:bn
 
 orð:
 áhorfandi
 no kk
-defn:
+defn:viewer, spectator
 tm:20220113
 src:bn
 
 orð:
 áskrifandi
 no kk
-defn:
+defn:fastur kaupandi að dagblaði, sjónvarpsstöð eða tímariti
 tm:20220113
 src:bn
 
 orð:
 byrjandi
 no kk
-defn:
+defn:beginner
 tm:20220113
 src:bn
 
 orð:
 eigandi
 no kk
-defn:
+defn:owner
 tm:20220113
 src:bn
 
 orð:
 hlustandi
 no kk
-defn:
+defn:listener
 tm:20220113
 src:bn
 
 orð:
 hlutur
 no kk
-defn:
+defn:thing
 tm:20220113
 src:bn
 
 orð:
 hringur
 no kk
-defn:
+defn:circular object, ring
 tm:20220113
 src:bn
 
 orð:
 lesandi
 no kk
-defn:
+defn:reader
 tm:20220113
 src:bn
 
 orð:
 litur
 no kk
-defn:
+defn:colour
 tm:20220113
 src:bn
 
 orð:
 örn
 no kk
-defn:
+defn:eagle
 tm:20220113
 src:bn
 
 orð:
 smiður
 no kk
-defn:
+defn:carpenter, builder
 tm:20220113
 src:bn
 
 orð:
 vængur
 no kk
-defn:
+defn:wing
 tm:20220113
 src:bn
 
 orð:
 vegur
 no kk
-defn:
+defn:road
 tm:20220113
 src:bn
 
