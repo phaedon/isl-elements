@@ -93,12 +93,27 @@ def create_nouns(word):
     return nouns
 
 
-def create_noun(word, gender):
+def get_gender(w):
+    """Converts a string like 'no kk' to a Gender enum"""
+    if w.startswith("no "):
+        return grammar_enums.Gender(w.removeprefix("no "))
+    return None
+
+
+def create_noun_from(word, gender):
     _, matches = icebin.lookup(word)
     for match in matches:
         if is_noun(match) and match.ofl == gender.value:
             return Noun(match.ord, grammar_enums.Gender(match.ofl))
     return None
+
+
+def create_noun(w):
+    maybe_noun = create_noun_from(w.word, get_gender(w.grammarcat.strip()))
+    if maybe_noun is None:
+        return None
+    maybe_noun.wordentry = w
+    return maybe_noun
 
 
 def generate_nouns(word_list):
