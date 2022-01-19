@@ -560,5 +560,440 @@ defn:goð í heiðinni trú norrænna manna
 tm:20220113
 src:bn
 
+orð:
+á
+no kvk
+defn:river
+tm:20220119
+src:bn
+
+orð:
+æður
+no kvk
+defn:female eider duck
+tm:20220119
+src:bn
+
+orð:
+æfing
+no kvk
+defn:exercise
+tm:20220119
+src:bn
+
+orð:
+ær
+no kvk
+defn:female sheep
+tm:20220119
+src:bn
+
+orð:
+bók
+no kvk
+defn:book
+tm:20220119
+src:bn
+
+orð:
+brú
+no kvk
+defn:mannvirki byggt yfir torfæru
+tm:20220119
+src:bn
+
+orð:
+bygging
+no kvk
+defn:hús, einkum í stærra lagi
+tm:20220119
+src:bn
+
+orð:
+Danmörk
+no kvk
+defn:Denmark
+tm:20220119
+src:bn
+
+orð:
+dóttir
+no kvk
+defn:kvenkyns barn einhvers
+tm:20220119
+src:bn
+
+orð:
+ermi
+no kvk
+defn:sleeve
+tm:20220119
+src:bn
+
+orð:
+ey
+no kvk
+defn:land umflotið vatni (shorter form)
+tm:20220119
+src:bn
+
+orð:
+eyja
+no kvk
+defn:land umflotið vatni (longer form)
+tm:20220119
+src:bn
+
+orð:
+eyri
+no kvk
+defn:landræma sem skagar út í á eða sjó
+tm:20220119
+src:bn
+
+orð:
+frú
+no kvk
+defn:gift kona, húsfreyja
+tm:20220119
+src:bn
+
+orð:
+gjá
+no kvk
+defn:löng og djúp jarðsprunga með klettaveggjum
+tm:20220119
+src:bn
+
+orð:
+gleði
+no kvk
+defn:sú tilfinning að vera glaður
+tm:20220119
+src:bn
+
+orð:
+grein
+no kvk
+defn:branch; a journal essay; a specific field of study
+tm:20220119
+src:bn
+
+orð:
+heiði
+no kvk
+defn:óbyggt land (í nokkurri hæð) milli byggða eða ofan byggðar
+tm:20220119
+src:bn
+
+orð:
+helgi
+no kvk
+defn:samfelldur tími sem nær yfir laugardag og sunnudag
+tm:20220119
+src:bn
+
+orð:
+hlið
+no kvk
+defn:side of something
+dæmi:leggja bókina til hliðar
+dæmi:það eru margar hliðar á málinu
+dæmi:skoða hlutina frá báðum hliðum
+dæmi:þær sátu hlið við hlið
+tm:20220119
+src:bn
+
+orð:
+hlíð
+no kvk
+defn:löng brekka frá fjallsrótum upp á fjallsbrún eða upp að hamrabelti
+tm:20220119
+src:bn
+
+orð:
+hönd
+no kvk
+defn:líkamshlutinn í framhaldi af handlegg, framan við úlnlið; rithönd, handskrift
+dæmi:taka í höndina á henni
+dæmi:hann hefur fallega hönd
+tm:20220119
+src:bn
+
+orð:
+kerling
+no kvk
+defn:gömul kona
+tm:20220119
+src:bn
+
+orð:
+kind
+no kvk
+defn:sheep
+tm:20220119
+src:bn
+
+orð:
+kinn
+no kvk
+defn:cheek
+dæmi:hún strauk barninu blíðlega um kinnina
+tm:20220119
+src:bn
+
+orð:
+kló
+no kvk
+defn:oddhvöss nögl á dýrsfæti
+tm:20220119
+src:bn
+
+orð:
+krá
+no kvk
+defn:veitingastaður þar sem einkum eru seldir áfengir drykkir, bjórkrá, knæpa
+tm:20220119
+src:bn
+
+orð:
+kýr
+no kvk
+defn:stórt klaufdýr, húsdýr til mjólkurframleiðslu
+tm:20220119
+src:bn
+
+orð:
+laug
+no kvk
+defn:pool
+tm:20220119
+src:bn
+
+orð:
+leikfimi
+no kvk
+defn:líkamsæfingar til að styrkja líkamann
+tm:20220119
+src:bn
+
+orð:
+lifur
+no kvk
+defn:stórt líffæri sem gegnir mörgum hlutverkum í líkamanum
+tm:20220119
+src:bn
+
+orð:
+lús
+no kvk
+defn:smádýr af ýmsum tegundum sem sníkir á mönnum, dýrum og plöntum
+dæmi:(orðasambönd) nú detta mér allar dauðar lýs úr höfði
+tm:20220119
+src:bn
+
+orð:
+lygi
+no kvk
+defn:lie, untruth
+tm:20220119
+src:bn
+
+orð:
+málfræði
+no kvk
+defn:fræðigrein sem fæst við kerfi og reglur tungumáls
+tm:20220119
+src:bn
+
+orð:
+mjólk
+no kvk
+defn:kúamjólk til neyslu, oft í fernu
+tm:20220119
+src:bn
+
+orð:
+móðir
+no kvk
+defn:kvenkyns foreldri e-s
+tm:20220119
+src:bn
+
+orð:
+mörk
+no kvk
+defn:forest;open field, open area on land, open space
+tm:20220119
+src:bn
+
+orð:
+mús
+no kvk
+defn:mouse
+tm:20220119
+src:bn
+
+orð:
+nál
+no kvk
+defn:needle
+tm:20220119
+src:bn
+
+orð:
+nögl
+no kvk
+defn:hornmyndun fremst ofan á tám og fingrum
+tm:20220119
+src:bn
+
+orð:
+nótt
+no kvk
+defn:dimmi tíminn milli kvölds og morguns
+tm:20220119
+src:bn
+
+orð:
+nýjung
+no kvk
+defn:e-ð nýtt, nýstárlegt
+tm:20220119
+src:bn
+
+orð:
+önd
+no kvk
+defn:duck
+tm:20220119
+src:bn
+
+orð:
+ör
+no kvk
+defn:arrow
+tm:20220119
+src:bn
+
+orð:
+rönd
+no kvk
+defn:stripe
+tm:20220119
+src:bn
+
+orð:
+rót
+no kvk
+defn:sá hluti plöntu sem er niðri í moldinni
+tm:20220119
+src:bn
+
+orð:
+sæng
+no kvk
+defn:blanket, comforter
+tm:20220119
+src:bn
+
+orð:
+setning
+no kvk
+defn:sentence; legislation, or a legislative session
+tm:20220119
+src:bn
+
+orð:
+skál
+no kvk
+defn:bowl
+tm:20220119
+src:bn
+
+orð:
+skeið
+no kvk
+defn:áhald til að borða með súpu og aðra mjúka fæðu
+tm:20220119
+src:bn
+
+orð:
+skel
+no kvk
+defn:shell
+tm:20220119
+src:bn
+
+orð:
+sneið
+no kvk
+defn:regular, thin, cross-cut pieces of bread, meat or fruit
+tm:20220119
+src:bn
+
+orð:
+speki
+no kvk
+defn:wisdom
+tm:20220119
+src:bn
+
+orð:
+spöng
+no kvk
+defn:hairtie; dental braces
+tm:20220119
+src:bn
+
+orð:
+stöð
+no kvk
+defn:station; transport hub
+tm:20220119
+src:bn
+
+orð:
+stöng
+no kvk
+defn:long rod (such as a fishing rod)
+tm:20220119
+src:bn
+
+orð:
+systir
+no kvk
+defn:kvenmaður sem á sömu foreldra og e-r
+tm:20220119
+src:bn
+
+orð:
+tá
+no kvk
+defn:einn af fimm smálimum fremst á fæti
+tm:20220119
+src:bn
+
+orð:
+tönn
+no kvk
+defn:hart bein með glerungshúð í munni (flestra) hryggdýra
+tm:20220119
+src:bn
+
+orð:
+vél
+no kvk
+defn:tæki, oft samsett úr mörgum hlutum, olíu- eða rafknúið, til að vinna ákveðið verk
+tm:20220119
+src:bn
+
+orð:
+vík
+no kvk
+defn:lítill bugur inn í strönd
+tm:20220119
+src:bn
+
 # Keep this as a marker for the end-of-file:
 EOF
