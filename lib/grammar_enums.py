@@ -49,6 +49,9 @@ class InflClass(enum.Enum):
 
     STRONG = "FSB"
     WEAK = "FVB"
+    SUPERLATIVE_STRONG = "ESB"
+    SUPERLATIVE_WEAK = "EVB"
+    COMPARATIVE = "MST"
 
 
 class Voice(enum.Enum):
