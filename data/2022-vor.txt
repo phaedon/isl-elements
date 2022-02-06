@@ -1316,5 +1316,520 @@ defn:heavy
 tm:20220129
 src:sbl
 
+orð:
+auðsær
+lo
+defn:clear, obvious
+tm:20220130
+src:sbl
+
+orð:
+bjartur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+blautur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+duglegur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+fallegur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+fár
+lo
+defn:ekki margir, nokkrir
+tm:20220130
+src:sbl
+
+orð:
+feiminn
+lo
+defn:shy
+tm:20220130
+src:sbl
+
+orð:
+frægur
+lo
+defn:famous
+tm:20220130
+src:sbl
+
+orð:
+frár
+lo
+defn:swift of foot
+tm:20220130
+src:sbl
+
+orð:
+fús
+lo
+defn:ready, willing, eager
+dæmi:hann var fús til að hjálpa okkur
+tm:20220130
+src:sbl
+
+orð:
+glöggur
+lo
+defn:observant, perceptive
+tm:20220130
+src:sbl
+
+orð:
+grannur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+heitur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+hlýr
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+hvítur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+kaldur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+kátur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+knár
+lo
+defn:energetic, strong, röskur og duglegur
+tm:20220130
+src:sbl
+
+orð:
+röskur
+lo
+defn:energetic, vigorous, duglegur og drífandi
+tm:20220130
+src:sbl
+
+orð:
+kunnugur
+lo
+defn:familiar with
+dæmi:eins og kunnugt er...
+tm:20220130
+src:sbl
+
+orð:
+laglegur
+lo
+defn:með snoturt andlit; snotur, fallegur
+dæmi:það voru margar laglegar stúlkur í boðinu
+tm:20220130
+src:sbl
+
+orð:
+lágur
+lo
+defn:stuttur á hæðina
+tm:20220130
+src:sbl
+
+orð:
+lasinn
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+latur
+lo
+defn:lazy; sem hefur lítið framtak, sem nennir ekki að gera hluti
+dæmi:hún var löt og nennti ekki í skólann
+tm:20220130
+src:sbl
+
+orð:
+mjúkur
+lo
+defn:soft
+tm:20220130
+src:sbl
+
+orð:
+ör
+lo
+defn:rapid, spirited; generous
+tm:20220130
+src:sbl
+
+orð:
+rúmur
+lo
+defn:spacious, roomy, loose
+tm:20220130
+src:sbl
+
+orð:
+sæll
+lo
+defn:happy, blissful
+tm:20220130
+src:sbl
+
+orð:
+skítugur
+lo
+defn:dirty, filthy
+tm:20220130
+src:sbl
+
+orð:
+sljór
+lo
+defn:blunt, dull
+tm:20220130
+src:sbl
+
+orð:
+snöggur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+snotur
+lo
+defn:nice, handsome
+tm:20220130
+src:sbl
+
+orð:
+sterkur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+stuttur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+súr
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+svangur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+sýnn
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+trúr
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+ungur
+lo
+defn:
+tm:20220130
+src:sbl
+
+orð:
+vænn
+lo
+defn:kind, good; solid, chunky, hefty
+tm:20220130
+src:sbl
+
+orð:
+vesæll
+lo
+defn:miserable, wretched
+tm:20220130
+src:sbl
+
+orð:
+þægur
+lo
+defn:obedient, well-behaved
+tm:20220130
+src:sbl
+
+orð:
+þögull
+lo
+defn:silent, quiet
+tm:20220130
+src:sbl
+
+orð:
+þrár
+lo
+defn:stubborn, obstinate
+tm:20220130
+src:sbl
+
+orð:
+þröngur
+lo
+defn:narrow
+tm:20220130
+src:sbl
+
+orð:
+þroskaður
+lo
+defn:mature, ripe
+tm:20220130
+src:sbl
+
+orð:
+þunnur
+lo
+defn:thin; runny, diluted
+tm:20220130
+src:sbl
+
+orð:
+þykkur
+lo
+defn:thick, dense
+tm:20220130
+src:sbl
+
+orð:
+fé
+no hk
+defn:money; sheep
+tm:20220206
+src:bn
+
+orð:
+tré
+no hk
+defn:tree
+tm:20220206
+src:bn
+
+orð:
+hlé
+no hk
+defn:a short break; shelter from weather and wind
+tm:20220206
+src:bn
+
+orð:
+eyra
+no hk
+defn:ear
+tm:20220206
+src:bn
+
+orð:
+skema
+no hk
+defn:diagram (from scheme)
+tm:20220206
+src:bn
+
+orð:
+hjarta
+no hk
+defn:heart
+tm:20220206
+src:bn
+
+orð:
+auga
+no hk
+defn:eye
+tm:20220206
+src:bn
+
+orð:
+él
+no hk
+defn:snowstorm
+tm:20220206
+src:bn
+
+orð:
+egg
+no hk
+defn:egg
+tm:20220206
+src:bn
+
+orð:
+nef
+no hk
+defn:nose
+tm:20220206
+src:bn
+
+orð:
+ríki
+no hk
+defn:state; power
+tm:20220206
+src:bn
+
+orð:
+klæði
+no hk
+defn:woven fabric
+tm:20220206
+src:bn
+
+orð:
+klaustur
+no hk
+defn:samfélag fólks sem lifir samkvæmt ákveðinni trúarreglu
+tm:20220206
+src:bn
+
+orð:
+veður
+no hk
+defn:weather
+tm:20220206
+src:bn
+
+orð:
+silfur
+no hk
+defn:silver
+tm:20220206
+src:bn
+
+orð:
+myrkur
+no hk
+defn:það að ekki er bjart, ekkert ljós sést
+tm:20220206
+src:bn
+
+orð:
+dæmi
+no hk
+defn:example
+tm:20220206
+src:bn
+
+orð:
+fangelsi
+no hk
+defn:prison
+tm:20220206
+src:bn
+
+orð:
+frelsi
+no hk
+defn:freedom
+tm:20220206
+src:bn
+
+orð:
+leyfi
+no hk
+defn:permission; leave from work
+tm:20220206
+src:bn
+
+orð:
+nesti
+no hk
+defn:matur til að hafa með sér og borða, t.d. á ferðalagi
+tm:20220206
+src:bn
+
+orð:
+merki
+no hk
+defn:mark, symbol, traffic sign
+tm:20220206
+src:bn
+
+orð:
+veski
+no hk
+defn:wallet
+tm:20220206
+src:bn
+
+orð:
+firma
+no hk
+defn:fyrirtæki
+tm:20220206
+src:bn
+
+orð:
+pasta
+no hk
+defn:pasta
+tm:20220206
+src:bn
+
 # Keep this as a marker for the end-of-file:
 EOF
