@@ -17,3 +17,6 @@ Talþjálfun 1 (lecture)
 
 bn:
 Beyging nafnorða (canonical declensions)
+
+aea:
+Akam, ég og Annika

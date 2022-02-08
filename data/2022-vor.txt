@@ -1831,5 +1831,142 @@ defn:pasta
 tm:20220206
 src:bn
 
+orð:
+andrúmsloft
+no hk
+defn:atmosphere
+tm:20220208
+src:aea
+
+orð:
+fíngerður
+lo
+defn:subtle, fine
+tm:20220208
+src:aea
+
+orð:
+firnindi
+no hk
+defn:wilderness, desolation
+note:only plural
+tm:20220208
+src:aea
+
+orð:
+frekna
+no kvk
+defn:freckle
+tm:20220208
+src:aea
+
+orð:
+hlátrasköll
+no hk
+defn:loud and noisy laughter
+note:only plural
+tm:20220208
+src:aea
+
+orð:
+kjalta
+no kvk
+defn:lap
+tm:20220208
+src:aea
+
+orð:
+krullaður
+lo
+defn:curly
+tm:20220208
+src:aea
+
+orð:
+meinilla
+ao
+defn:mjög illa
+tm:20220208
+src:aea
+
+orð:
+þrútinn
+lo
+defn:swollen
+tm:20220208
+src:aea
+
+orð:
+raunalegur
+lo
+defn:sad expression
+tm:20220208
+src:aea
+
+orð:
+rjúkandi
+lo
+defn:steaming
+tm:20220208
+src:aea
+
+orð:
+sjálfsvorkunn
+no kvk
+defn:self-pity
+tm:20220208
+src:aea
+
+orð:
+snefill
+no kk
+defn:trace (noun)
+note:used in negative, "not a trace of..."
+tm:20220208
+src:aea
+
+orð:
+snillingur
+no kk
+defn:genius (noun)
+tm:20220208
+src:aea
+
+orð:
+snöggur
+lo
+defn:quick, fast
+tm:20220208
+src:aea
+
+orð:
+spékoppur
+no kk
+defn:dimple
+tm:20220208
+src:aea
+
+orð:
+svakalegur
+lo
+defn:to emphasize, "to the max"; scary
+dæmi:þessi fjallvegur var svakalegur áður fyrr
+tm:20220208
+src:aea
+
+orð:
+vesen
+no hk
+defn:trouble, problems
+tm:20220208
+src:aea
+
+orð:
+þrúgandi
+lo
+defn:oppressive
+tm:20220208
+src:aea
+
 # Keep this as a marker for the end-of-file:
 EOF
